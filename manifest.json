@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Spălătoria Helmut",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Spălătoria Helmut",
+  "start_url": "https://gianyyy3.github.io/helmut-app",
+  "theme_color": "#ffffff",
+  "lang": "rm"
+}
